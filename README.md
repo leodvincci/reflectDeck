@@ -3,8 +3,7 @@
 
 https://user-images.githubusercontent.com/90817505/212465074-9dc9c31d-a6cf-4823-bcdc-f2d5401d6da0.mp4
 
-[![](https://markdown-videos.deta/youtube/{video_id})](https://youtu.be/LNdmy1HVesY)
-
+[![DevLog:1.14.23](https://res.cloudinary.com/marcomontalbano/image/upload/v1673717350/video_to_markdown/images/youtube--LNdmy1HVesY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=LNdmy1HVesY "DevLog:1.14.23")
 
 ![image](https://user-images.githubusercontent.com/90817505/212466729-1adec426-fe98-4948-81b8-5be320f94321.png)
 
