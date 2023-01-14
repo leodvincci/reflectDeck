@@ -4,8 +4,8 @@
 https://user-images.githubusercontent.com/90817505/212465074-9dc9c31d-a6cf-4823-bcdc-f2d5401d6da0.mp4
 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/90817505/212488592-fb531e9c-67d3-4951-81fb-7feadd7fef53.png">
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/90817505/212488616-63c2e7cc-64e7-4c86-9058-e3cf476b6db9.png">
 
+![image](https://user-images.githubusercontent.com/90817505/212498477-91245c3b-71a6-4dba-b87f-ecb34284def4.png)
 
 
 ![image](https://user-images.githubusercontent.com/90817505/212467132-c44791d3-ebe1-4089-b4b4-37b01d4e8205.png)
