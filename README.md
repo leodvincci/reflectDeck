@@ -3,9 +3,9 @@
 
 https://user-images.githubusercontent.com/90817505/212465074-9dc9c31d-a6cf-4823-bcdc-f2d5401d6da0.mp4
 
-[![DevLog:1.14.23](https://res.cloudinary.com/marcomontalbano/image/upload/v1673717350/video_to_markdown/images/youtube--LNdmy1HVesY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=LNdmy1HVesY "DevLog:1.14.23")
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/90817505/212488592-fb531e9c-67d3-4951-81fb-7feadd7fef53.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/90817505/212488616-63c2e7cc-64e7-4c86-9058-e3cf476b6db9.png">
 
-![image](https://user-images.githubusercontent.com/90817505/212466729-1adec426-fe98-4948-81b8-5be320f94321.png)
 
 
 ![image](https://user-images.githubusercontent.com/90817505/212467132-c44791d3-ebe1-4089-b4b4-37b01d4e8205.png)
