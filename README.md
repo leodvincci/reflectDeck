@@ -2,6 +2,7 @@
 ![Screenshot from 2023-01-13 16-38-29](https://user-images.githubusercontent.com/90817505/212458512-41c279df-4dc0-4e46-a580-5aa3371363ab.png)
 
 https://user-images.githubusercontent.com/90817505/212465074-9dc9c31d-a6cf-4823-bcdc-f2d5401d6da0.mp4
+![image](https://user-images.githubusercontent.com/90817505/212466056-001e6a4f-b61e-4942-a8d9-0d0e1a2c7d45.png)
 
 ![image](https://user-images.githubusercontent.com/90817505/212465869-a2178d2d-88ba-433b-a973-0e2d0a36c720.png)
 
