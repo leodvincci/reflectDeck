@@ -1,8 +1,11 @@
 # r e f l e c t D e c k
 ![Screenshot from 2023-01-13 16-38-29](https://user-images.githubusercontent.com/90817505/212458512-41c279df-4dc0-4e46-a580-5aa3371363ab.png)
 
-https://user-images.githubusercontent.com/90817505/212563346-4b3506ab-a0b1-4713-ac1a-a5c7ae46b5e3.mp4
+https://user-images.githubusercontent.com/90817505/212563346-4b3506ab-a0b1-4713-ac1a-a5c7ae46b5e3.mp4 
+
 ![Screenshot from 2023-01-15 16-12-46](https://user-images.githubusercontent.com/90817505/212569893-3d05627e-0073-4198-9434-e5d4657ed812.png)
+![image](https://user-images.githubusercontent.com/90817505/212788962-68ab27f6-12f9-4b0a-8850-baffaadb0f43.png)
+
 ![Screenshot from 2023-01-15 16-12-44](https://user-images.githubusercontent.com/90817505/212569898-c08a17fa-08dd-4a7c-bac7-274ec66c6a73.png)
 ![Screenshot from 2023-01-15 16-12-43](https://user-images.githubusercontent.com/90817505/212569916-91545ba5-4627-45da-8f60-1926e142160e.png)
 ![Screenshot from 2023-01-15 16-12-42](https://user-images.githubusercontent.com/90817505/212569920-c970c69f-e1df-4460-bdc6-fbd3507265be.png)
